@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "lens-plus",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

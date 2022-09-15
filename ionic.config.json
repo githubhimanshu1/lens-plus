@@ -1,0 +1,8 @@
+{
+  "name": "lens-plus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c1369cfe"
+}
